@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ - My name is DUY TRAN from Vietnam
+ - I have a passion for software architecture since 19xx
+
 <!--
 **tdduydev/tdduydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
